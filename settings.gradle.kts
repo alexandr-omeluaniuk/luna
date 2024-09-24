@@ -1,5 +1,5 @@
 rootProject.name = "luna"
 
 include(
-    ":modules:spiders:anubis"
+    ":modules:gods:anubis"
 )
